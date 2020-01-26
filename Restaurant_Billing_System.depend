@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1514140574 source:g:\c_project\restaurant_billing_system\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1386420876 source:g:\c_project\restaurant_billing_system\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1386340778 g:\c_project\restaurant_billing_system\conio2.h
+	<conio.h>
+	<windows.h>
+
